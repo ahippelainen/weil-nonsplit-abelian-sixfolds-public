@@ -1,6 +1,6 @@
 # Weil classes on non-split abelian sixfolds: code
 
-Code for the computations in the note *Algebraicity of Weil classes on non-split abelian sixfolds of Weil type over Q(√−3) with Hermitian determinant −2*. The note and its companion are on [hippe.fi/research/ai-driven](https://hippe.fi/research/ai-driven/). Each script reproduces the numbers of the statement listed next to it.
+Code for the computations in the note *Algebraicity of Weil classes on non-split abelian sixfolds of Weil type over Q(√−3) with Hermitian determinant −2*. Each script reproduces the numbers of the statement listed next to it.
 
 | Script | Reproduces |
 |---|---|
